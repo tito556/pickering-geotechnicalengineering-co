@@ -1,0 +1,51 @@
+# Geotechnicalengineering — Pickering
+
+> Geotechnical engineering services in Pickering, Canada.
+
+## Services
+- [Anchors](https://pickering.geotechnicalengineering.co/anchors/)
+- [Cbr Road](https://pickering.geotechnicalengineering.co/cbr-road/)
+- [Cpt Test](https://pickering.geotechnicalengineering.co/cpt-test/)
+- [Deep Excavations](https://pickering.geotechnicalengineering.co/deep-excavations/)
+- [Excavation Monitoring](https://pickering.geotechnicalengineering.co/excavation-monitoring/)
+- [Excavations](https://pickering.geotechnicalengineering.co/excavations/)
+- [Flexible Pavement](https://pickering.geotechnicalengineering.co/flexible-pavement/)
+- [Footings](https://pickering.geotechnicalengineering.co/footings/)
+- [Foundations](https://pickering.geotechnicalengineering.co/foundations/)
+- [Geophysics](https://pickering.geotechnicalengineering.co/geophysics/)
+- [Grain Size](https://pickering.geotechnicalengineering.co/grain-size/)
+- [Ground Improvement](https://pickering.geotechnicalengineering.co/ground-improvement/)
+- [Grouting](https://pickering.geotechnicalengineering.co/grouting/)
+- [In Situ Permeability](https://pickering.geotechnicalengineering.co/in-situ-permeability/)
+- [Investigation](https://pickering.geotechnicalengineering.co/investigation/)
+- [Lab In Situ](https://pickering.geotechnicalengineering.co/lab-in-situ/)
+- [Laboratory](https://pickering.geotechnicalengineering.co/laboratory/)
+- [Liquefaction](https://pickering.geotechnicalengineering.co/liquefaction/)
+- [Masw](https://pickering.geotechnicalengineering.co/masw/)
+- [Mat Foundations](https://pickering.geotechnicalengineering.co/mat-foundations/)
+- [Piles](https://pickering.geotechnicalengineering.co/piles/)
+- [Plate Load Test](https://pickering.geotechnicalengineering.co/plate-load-test/)
+- [Resistivity](https://pickering.geotechnicalengineering.co/resistivity/)
+- [Retaining Walls](https://pickering.geotechnicalengineering.co/retaining-walls/)
+- [Rigid Pavement](https://pickering.geotechnicalengineering.co/rigid-pavement/)
+- [Road Geotechnics](https://pickering.geotechnicalengineering.co/road-geotechnics/)
+- [Sand Cone Density](https://pickering.geotechnicalengineering.co/sand-cone-density/)
+- [Seismic](https://pickering.geotechnicalengineering.co/seismic/)
+- [Seismic Isolation](https://pickering.geotechnicalengineering.co/seismic-isolation/)
+- [Seismic Microzonation](https://pickering.geotechnicalengineering.co/seismic-microzonation/)
+- [Seismic Refraction](https://pickering.geotechnicalengineering.co/seismic-refraction/)
+- [Slope Stability](https://pickering.geotechnicalengineering.co/slope-stability/)
+- [Slopes](https://pickering.geotechnicalengineering.co/slopes/)
+- [Soft Ground Tunnels](https://pickering.geotechnicalengineering.co/soft-ground-tunnels/)
+- [Spt Drilling](https://pickering.geotechnicalengineering.co/spt-drilling/)
+- [Stone Columns](https://pickering.geotechnicalengineering.co/stone-columns/)
+- [Test Pits](https://pickering.geotechnicalengineering.co/test-pits/)
+- [Triaxial](https://pickering.geotechnicalengineering.co/triaxial/)
+- [Vibrocompaction](https://pickering.geotechnicalengineering.co/vibrocompaction/)
+
+## Contact
+- Website: https://pickering.geotechnicalengineering.co/
+
+## About
+This site provides geotechnical engineering services in Pickering, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
